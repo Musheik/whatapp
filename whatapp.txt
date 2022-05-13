@@ -1,3 +1,11 @@
-1. enter whtas app
-2. intsall it
-3. edit name
+This is whatsapp code
+
+Author mr.m
+
+1.profile page code
+
+2.chat screen code
+3.last seen code
+4. attachment code 
+
+5.hiding the last seen
