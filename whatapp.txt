@@ -6,7 +6,7 @@ Author mr.m
 
 2.chat screen code
 3.last seen code
-4. attachment code 
+4. attachment and pdf code 
 
 5.hiding the last seen
 
